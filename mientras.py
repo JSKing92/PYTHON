@@ -10,4 +10,4 @@ while posicion < 18:
         vocales = vocales+1
     posicion=posicion+1
 
-print(vocales)
+print(vocales, "Ejecutado con exito")
